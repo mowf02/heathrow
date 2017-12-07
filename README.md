@@ -1,2 +1,12 @@
 # heathrow
-An app to visualise historic weather data at Heathrow
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install # Or yarn install
+
+# serve with hot reload at localhost:8080
+$ npm start
+
+```
